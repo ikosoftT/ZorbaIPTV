@@ -1,0 +1,2 @@
+import { siteConfig } from "@/lib/site-config";
+export default function ChannelTicker() { return <section className="border-y border-border bg-card/30 px-5 py-5 text-center" aria-label="Channel availability"><p className="text-sm text-muted-foreground">Live TV, sports, news and entertainment categories. Confirm specific channels before ordering.</p><p className="mx-auto mt-2 max-w-4xl text-xs leading-5 text-muted-foreground">{siteConfig.legalDisclaimer}</p></section>; }

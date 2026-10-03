@@ -1,0 +1,73 @@
+[
+  {
+    "file": "/photos/living-room.webp",
+    "source": "https://www.pexels.com/photo/1571460/",
+    "download": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "license": "https://www.pexels.com/license/",
+    "bytes": 222543
+  },
+  {
+    "file": "/photos/soccer.webp",
+    "source": "https://www.pexels.com/photo/114296/",
+    "download": "https://images.pexels.com/photos/114296/pexels-photo-114296.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "license": "https://www.pexels.com/license/",
+    "bytes": 239594
+  },
+  {
+    "file": "/photos/devices.webp",
+    "source": "https://www.pexels.com/photo/4792733/",
+    "download": "https://images.pexels.com/photos/4792733/pexels-photo-4792733.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "license": "https://www.pexels.com/license/",
+    "bytes": 219843
+  },
+  {
+    "file": "/photos/network.webp",
+    "source": "https://www.pexels.com/photo/2881232/",
+    "download": "https://images.pexels.com/photos/2881232/pexels-photo-2881232.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "license": "https://www.pexels.com/license/",
+    "bytes": 145305
+  },
+  {
+    "file": "/photos/headphones.webp",
+    "source": "https://www.pexels.com/photo/3394650/",
+    "download": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "license": "https://www.pexels.com/license/",
+    "bytes": 50399
+  },
+  {
+    "file": "/photos/stadium.webp",
+    "source": "https://www.pexels.com/photo/28827841/",
+    "license": "https://www.pexels.com/license/",
+    "bytes": 187218
+  },
+  {
+    "file": "/photos/cinema.webp",
+    "source": "https://www.pexels.com/photo/18501410/",
+    "license": "https://www.pexels.com/license/",
+    "bytes": 79260
+  },
+  {
+    "file": "/photos/film-projector.webp",
+    "source": "https://www.pexels.com/photo/36136492/",
+    "license": "https://www.pexels.com/license/",
+    "bytes": 349548
+  },
+  {
+    "file": "/photos/film-reels.webp",
+    "source": "https://www.pexels.com/photo/5826828/",
+    "license": "https://www.pexels.com/license/",
+    "bytes": 326720
+  },
+  {
+    "file": "/photos/home-theater.webp",
+    "source": "https://www.pexels.com/photo/13722886/",
+    "license": "https://www.pexels.com/license/",
+    "bytes": 663386
+  },
+  {
+    "file": "/photos/movie-production.webp",
+    "source": "https://www.pexels.com/photo/9811669/",
+    "license": "https://www.pexels.com/license/",
+    "bytes": 190658
+  }
+]
